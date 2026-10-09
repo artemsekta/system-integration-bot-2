@@ -1,3 +1,5 @@
+[Русский](README.ru.md) | [English](README.md)
+
 # Ulvis URL Shortener для Telegram
 
 Интеграция [Ulvis API](https://ulvis.net/) в Telegram-бота на Python. Позволяет сокращать ссылки, задавать пользовательские имена и передавать пароль.
